@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-color: #FFD9D9;
+}
+.App .wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App .wrapper .wrapper-text {
+  width: 402px;
+  height: 65px;
+  margin-top: 80px;
+}
+.App .wrapper .wrapper-text p {
+  width: 402px;
+  height: 65px;
+  font-size: 42px;
+  text-align: center;
+}
+.App .wrapper .wrapper-button {
+  width: 1056px;
+  height: 289px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 130px;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-quite {
+  width: 210px;
+  height: 289px;
+  display: flex;
+  flex-direction: column;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-quite .wrapper-button-quite {
+  width: 210px;
+  height: 235px;
+  border: 0.5px solid #333;
+  background-color: #1CC656;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-quite .wrapper-text-quite {
+  width: 73px;
+  height: 29px;
+  margin: 0 auto;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-quite .wrapper-text-quite p {
+  width: 73px;
+  height: 29px;
+  font-size: 24px;
+  text-align: center;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-low {
+  width: 210px;
+  height: 289px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-low .wrapper-button-low {
+  width: 210px;
+  height: 235px;
+  border: 0.5px solid #333;
+  background-color: #fff;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-low .wrapper-text-low {
+  width: 73px;
+  height: 29px;
+  margin: 0 auto;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-low .wrapper-text-low p {
+  width: 73px;
+  height: 29px;
+  font-size: 24px;
+  text-align: center;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-heigh {
+  width: 210px;
+  height: 289px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-heigh .wrapper-button-heigh {
+  width: 210px;
+  height: 235px;
+  border: 0.5px solid #333;
+  background-color: #fff;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-heigh .wrapper-text-heigh {
+  width: 73px;
+  height: 29px;
+  margin: 0 auto;
+}
+.App .wrapper .wrapper-button .wrapper-button-text-heigh .wrapper-text-heigh p {
+  width: 73px;
+  height: 29px;
+  font-size: 24px;
+  text-align: center;
+}/*# sourceMappingURL=App.css.map */
